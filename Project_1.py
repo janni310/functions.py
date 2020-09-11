@@ -1,6 +1,4 @@
-users = {'matti@gmail.com' : 'matti',
-        'antti@outlook.com' : 'antti',
-        'satu@gmail.com' : 'satu'}
+users = {}
 
 def login_or_create_account():
     """
